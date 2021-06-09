@@ -7,15 +7,15 @@
     3. cmd导向至本目录，输入 java - jar "Simple Calculator By Vela Yang"
     功能展示：
     定积分
-    ![](功能展示/AlphaMode_1.png)
+    ![](功能展示/AlphaMode_1.png "1")
     不定积分
-    ![](/功能展示/AlphaMode_2.png)
+    ![](/功能展示/AlphaMode_2.png "3")
     求导
     ![](/功能展示/AlphaMode_3.png)
     问问题
     ![](/功能展示/AlphaMode_4.png)
     知识获取阶段
-    ![](/功能展示/KnowledgeMode_1.png)
+    ![](/功能展示/KnowledgeMode_1.png "2")
     ![](/功能展示/KnowledgeMode_2.png)
     ![](/功能展示/KnowledgeMode_3.png)
     ![](./功能展示/KnowledgeMode_4.png)
