@@ -24,9 +24,5 @@
     ![](./功能展示/LocalMode_2.png)
     ![](./功能展示/LocalMode_3.png)
     ![](./功能展示/LocalMode_4.png)
-<<<<<<< HEAD
-    
-=======
->>>>>>> d9dc530b01d103841f6dda54da0e8a81faa8cbbb
 
  
