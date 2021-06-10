@@ -11,7 +11,7 @@
 
 # 功能展示：  
 ## 定积分  
-<img src="./功能展示/AlphaMode_2" width="480" />
+<img src="./功能展示/AlphaMode_2.png" width="480" />
 
 ## 不定积分  
 ![](./功能展示/AlphaMode_2.png#pic_center)  
