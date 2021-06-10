@@ -11,25 +11,39 @@
 
 # 功能展示：  
 ## 定积分  
+<div align="center">
 <img src="./功能展示/AlphaMode_1.png" width="360" />
+</div>
 
-## 不定积分  
+## 不定积分 
+<div align="center"> 
 <img src="./功能展示/AlphaMode_2.png" width="360" />
+</div>
+
 ## 求导  
+<div align="center">
 <img src="./功能展示/AlphaMode_3.png" width="360" />
+</div>
+
 ## 问问题  
+<div align="center">
 <img src="./功能展示/AlphaMode_4.png" width="360" /> 
+</div>
 
 ## 知识获取阶段  
+<div align="center">
 <img src="./功能展示/KnowledgeMode_1.png" width="360" /> 
 <img src="./功能展示/KnowledgeMode_2.png" width="360" /> 
 <img src="./功能展示/KnowledgeMode_3.png" width="360" /> 
 <img src="./功能展示/KnowledgeMode_4.png" width="360" /> 
+</div>
 
 ## 本地计算器（无需联网）  
+<div align="center">
 <img src="./功能展示/LocalMode_1.png" width="360" /> 
 <img src="./功能展示/LocalMode_2.png" width="360" /> 
 <img src="./功能展示/LocalMode_3.png" width="360" /> 
 <img src="./功能展示/LocalMode_4.png" width="360" /> 
+</div>
 
  
